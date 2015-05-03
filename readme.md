@@ -45,7 +45,7 @@ Adaptation et mise en son et en image du [texte _Fuck toute!_ de Sébastien Jean
 
   - S'assurer d'avoir les droits suffisants pour tout le matériel utilisé (texte, images et musique).
   - Inciter les auteurs à publier leur contribution sous licence WTFPL ou CC ou GPL.
-  - 
+  - Inciter les auteurs du matériel utilisé à participer au projet et à utiliser les outils moderne de travail collaboratif.
 
 
 # Licence et droits
