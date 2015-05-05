@@ -5,9 +5,29 @@ Adaptation et mise en son et en image du [texte _Fuck toute!_ de Sébastien Jean
 
 # État d'avancement du projet
 
-  - Définition et organisation du projet
+## En cours
+
   - Trouver des collaborateurs
+  - Découper le texte en «mouvements» pour la musique et les images.
+  - Sélection des images.
+  - Trouver la musique.
+
+## Fait
+
+  - Définition et organisation du projet
   - Travail du texte
+
+# Collaborez!
+
+Je cherche des collaborateurs, alors n'hésitez pas à me contactez: jvtrudel@gmx.com
+
+Ce dont j'ai particuliairement besoin:
+
+  - Commentaires constructifs
+  - Images (de préférence sous license WTFPL)
+  - Musique
+  - Montage
+
 
 # Jalons du projet
 
